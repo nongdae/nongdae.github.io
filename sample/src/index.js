@@ -28,6 +28,6 @@ function FlexColumnDiv2() {
 }
  
 ReactDOM.render(
-    <FlexColumnDiv2 />
+    <FlexColumnDiv2/>
   ,document.getElementById('root')
 );
